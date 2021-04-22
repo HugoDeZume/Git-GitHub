@@ -1,30 +1,30 @@
-#GIT COMMANDS
+# GIT COMMANDS
 
-##Command line
+## Command line
 
 `mkdir` "Directory name" used to create a new directory
 
 `rmdir` "Directory name" used to remove a directory
 	
-##Navegation
+## Navegation
 
 `cd` /"Directory name" navigate between directories
 
-##Compare
+## Compare
 
 `diff` "filename1" "filename2" compare two files
 
 `cmp` "filename1" "filename2] compare two files
 
-##Find files
+## Find files
 
 `find` "route" name/extension write the location file
 
-##Create and edit files
+## Create and edit files
 
 `nano` "filename" create and edit files
 
-##Config
+## Config
 
 `git config --global user.name` "your name"
 
